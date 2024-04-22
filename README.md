@@ -8,6 +8,9 @@ Welcome to the Health Plus project repository! This is a React-based website aim
 - **Deployment**: GitHub Pages
 - **Libraries**: React-Toastify, React Router DOM, FontAwesomeIcon
 
+### Dataset used - 
+https://www.kaggle.com/neelima98/disease-prediction-using-machine-learning
+
 ## Getting Started
 
 To run the project locally:
