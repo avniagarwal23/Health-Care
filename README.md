@@ -8,6 +8,16 @@ Welcome to the Health Plus project repository! This is a React-based website aim
 - **Deployment**: GitHub Pages
 - **Libraries**: React-Toastify, React Router DOM, FontAwesomeIcon
 
+## Getting Started
+
+To run the project locally:
+
+1. Clone this repository: `git clone https://github.com/avniagarwal23/Health-Care/tree/main/Health-Plus-main`
+2. Navigate to the project directory: `cd Health-Plus`
+3. Install dependencies: `npm install`
+4. Start the development server: `npm run start`
+5. Open your browser and visit: `http://localhost:3000/Health-Plus`
+
 ## Features
 
 - Easily schedule appointments with the specialists.
@@ -55,12 +65,4 @@ Welcome to the Health Plus project repository! This is a React-based website aim
 ![Health-Plus Image-9](https://i.postimg.cc/2SxLtBk8/Health-Plus-Image9.png)
 
 
-## Getting Started
 
-To run the project locally:
-
-1. Clone this repository: `git clone https://github.com/avniagarwal23/Health-Care/tree/main/Health-Plus-main`
-2. Navigate to the project directory: `cd Health-Plus`
-3. Install dependencies: `npm install`
-4. Start the development server: `npm run start`
-5. Open your browser and visit: `http://localhost:3000/Health-Plus`
